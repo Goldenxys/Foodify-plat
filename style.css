@@ -32,7 +32,7 @@ h1{
 .search input{
     padding: 10px;
     border: none;
-    width: 20%;
+    width: 10%;
     font-size: 15px;
     outline: none;
     border-radius: 10px 0 0 10px;
@@ -42,7 +42,7 @@ h1{
     padding: 10px 20px;
     background-color: #ff5722;
     border: none;
-    width: 10%;
+    width: 7%;
     cursor: pointer;
     font-size: 15px;
     color: #fff;
